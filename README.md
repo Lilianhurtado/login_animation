@@ -43,7 +43,7 @@ This project uses a state machine called "Login Machine" to handle eye tracking,
 
 📷 Demo
 
-(assets/osito.gif)
+![Demo de la app](/osito.gif)
 
 🏫 Course Information
 
