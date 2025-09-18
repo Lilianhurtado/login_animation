@@ -41,9 +41,9 @@ State Machine: Controls animations based on user interactions (e.g., triggers, b
 
 This project uses a state machine called "Login Machine" to handle eye tracking, hands up, and success/fail reactions.
 
-📷 Demo
+## 📷 Demo
 
-![Demo de la app](/osito.gif)
+![Demo de la app](assets/osito.gif) 
 
 🏫 Course Information
 
